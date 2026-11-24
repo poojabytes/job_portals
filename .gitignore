@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+backend/config/.env.local
+backend/public/profileImage/*
+backend/public/resume/*
+!backend/public/profileImage/.gitkeep
+!backend/public/resume/.gitkeep
+__pycache__/
+.DS_Store
